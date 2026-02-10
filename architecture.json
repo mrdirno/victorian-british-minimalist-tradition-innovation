@@ -1,0 +1,77 @@
+{
+  "book_id": "victorian-british-minimalist-tradition-innovation",
+  "title": "The Severe Mercy of Judgement",
+  "tagline": "In a world of Victorian excess, a woman who edits rooms confronts a client's cluttered past, forcing a choice between sterile order and the weight of lived tradition.",
+  "target_words": 60320,
+  "actual_words": 60320,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Aesthetics of Absence",
+    "The Tyranny of Order",
+    "The Legacy of Objects",
+    "The Silence Between Spaces"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Cream-Laid Envelope Upon the Salver",
+      "words": 5026
+    },
+    {
+      "ch": 2,
+      "title": "The House Yields in Granular Detail",
+      "words": 5026
+    },
+    {
+      "ch": 3,
+      "title": "A Workshop of Clean White Sheeting",
+      "words": 5026
+    },
+    {
+      "ch": 4,
+      "title": "The Looking-Glass of Unpolished Steel",
+      "words": 5026
+    },
+    {
+      "ch": 5,
+      "title": "A Silence of Denser Medium",
+      "words": 5026
+    },
+    {
+      "ch": 6,
+      "title": "The Honest Perfume of Fixer",
+      "words": 5026
+    },
+    {
+      "ch": 7,
+      "title": "A Particulate Tide of Fog",
+      "words": 5026
+    },
+    {
+      "ch": 8,
+      "title": "The Weight and Grain of Silence",
+      "words": 5026
+    },
+    {
+      "ch": 9,
+      "title": "A Cottage of Patient Stone",
+      "words": 5026
+    },
+    {
+      "ch": 10,
+      "title": "The Language of Ledgers",
+      "words": 5026
+    },
+    {
+      "ch": 11,
+      "title": "A Crystalline Silence",
+      "words": 5026
+    },
+    {
+      "ch": 12,
+      "title": "The Angle of a March Sun",
+      "words": 5026
+    }
+  ]
+}
